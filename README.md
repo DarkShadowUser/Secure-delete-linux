@@ -1,2 +1,3 @@
-# Secure-delete-trash
-Bash script to delete the trash on Linux systems using SRM.
+# Secure-delete-linux
+
+Tools to securely remove files on Linux based systems. Scripts are written in Bash and tested on Ubuntu. 
